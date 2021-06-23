@@ -6,7 +6,7 @@ package leetcode.sword;
  *@Date 2020/10/14 15:40
  *@Version V1.0
  **/
-public class HammingWeight {
+public class _15_hammingWeight {
     public int hammingWeight(int n) {
         int res = 0;
         while (n != 0) {
