@@ -1,13 +1,10 @@
 package leetcode;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
 /**
- *@Description
- *@Author ShenYubo
- *@Date 2020/10/15 9:05
- *@Version V1.0
+ * @Description
+ * @Author ShenYubo
+ * @Date 2020/10/15 9:05
+ * @Version V1.0
  **/
 public class Connect {
     public Node connect(Node root) {

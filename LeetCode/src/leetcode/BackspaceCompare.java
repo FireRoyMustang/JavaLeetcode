@@ -1,12 +1,10 @@
 package leetcode;
 
-import java.util.ArrayList;
-
 /**
- *@Description
- *@Author ShenYubo
- *@Date 2020/10/19 9:33
- *@Version V1.0
+ * @Description
+ * @Author ShenYubo
+ * @Date 2020/10/19 9:33
+ * @Version V1.0
  **/
 public class BackspaceCompare {
     public static void main(String[] args) {
